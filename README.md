@@ -42,9 +42,8 @@ pip install pandas numpy scikit-learn
 ## 🚀 How to Use
 Clone this repository and run the script:
 ```bash
-git clone https://github.com/your-username/health-data-preprocessing.git
-cd health-data-preprocessing
-python preprocess.py
+git clone https://github.com/byShukrullo/Data-prepocessing-Major-tasks-example/tree/main
+
 ```
 
 ---
