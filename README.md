@@ -50,7 +50,7 @@ python preprocess.py
 ---
 
 ## 📄 File Structure
-- `preprocess.py` – Contains all preprocessing examples step-by-step
+- `Major tasks in Data prepocessing.ipynb` – Contains all preprocessing examples step-by-step
 
 ---
 
@@ -60,12 +60,7 @@ Cleaned data, integrated patient records, scaled and encoded values, and final b
 ---
 
 ## 🧠 Purpose
-Preprocessing health data is crucial for improving model performance, ensuring accuracy, and enabling proper analytics.
-
----
-
-## 🔗 License
-This project is licensed under the MIT License.
+Preprocessing data is crucial for improving model performance, ensuring accuracy, and enabling proper analytics.
 
 ---
 
